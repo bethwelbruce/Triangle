@@ -8,7 +8,7 @@ For example, consider array A such that:
   A[3] = 1     A[4] = 8    A[5] = 20
 Triplet (0, 2, 4) is triangular.
 Write a function:
-class Solution { public int solution(int[] A); }
+def solution(A)
 that, given an array A consisting of N integers, returns 1 if there exists a triangular triplet for this array and returns 0 otherwise.
 For example, given array A such that:
   A[0] = 10    A[1] = 2    A[2] = 5
